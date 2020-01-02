@@ -29,3 +29,4 @@ npm install vue-router --save  安装路由
 
 
 用vue-router路由实现页面跳转  重复利用组件 构建页面重复部分
+测试
